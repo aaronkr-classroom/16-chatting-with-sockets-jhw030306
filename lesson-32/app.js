@@ -164,7 +164,7 @@ app.use("/", router); // 라우터를 애플리케이션에 추가
  */
 
 /**
- * Listing 30.3 (p. 444)
+ * Listing 30.3 (p. 444
  * app.js에서 서버 io 객체 추가
  */
 const server = app.listen(app.get("port"), () => {
